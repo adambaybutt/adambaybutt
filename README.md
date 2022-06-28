@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adambaybutt
-- 👀 I’m interested in crypto and ML.
+- 👀 I’m interested in crypto, asset management, and AI.
 - 🌱 I’m currently learning about RL for market making.
-- 💞️ I’m looking to collaborate on anything crypto+ML. Love to learn from others!
+- 💞️ I’m looking to collaborate on anything crypto+ML+defi. Love to learn from others!
 - 📫 How to reach me: Twitter DM @adambaybutt.
