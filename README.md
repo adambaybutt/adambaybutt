@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adambaybutt
-- 👀 I’m interested in crypto, AI, and asset management.
+- 👀 I’m interested in crypto, deep learning, and asset management.
 - 🌱 I’m currently learning about Transformers.
 - 💞️ I’m looking to collaborate on anything crypto+deep learning+defi. Love to learn from others!
 - 📫 How to reach me: Twitter DM @adambaybutt.
