@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @adambaybutt
-- 👀 I’m interested in crypto, deep learning, and asset management.
+- 👀 I’m interested in crypto, deep learning, and asset pricing.
 - 📫 How to reach me: Twitter DM @adambaybutt.
